@@ -1,4 +1,5 @@
-# Advanced Lane Finding with Vehicle Detection
+# Lanes&Lines: Computer Vision pipeline for Autonomous Cars 
+### Advanced Lane Finding with Vehicle Detection
 
 The goal of this project is to develop a pipeline to process a video stream from a forward-facing camera mounted on the front of a car, and output an annotated video with the following features:
 - Automated location of lane line positions
